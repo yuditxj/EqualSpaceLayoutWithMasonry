@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (1.0.2)
+  - XMNetworking (1.0.1):
+    - XMNetworking/Core (= 1.0.1)
+    - XMNetworking/Lib (= 1.0.1)
+  - XMNetworking/Core (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0
+  - XMNetworking/Lib (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0 (= 1.0.1)
+  - XMNetworking/Lib/AFNetworking-3.1.0 (1.0.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - XMNetworking (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  XMNetworking: 1268706bea6e16b4187e22033618e13fa889e3c9
+
+PODFILE CHECKSUM: ed610f5d3ddebf88b04bf7f99572a1559195df59
+
+COCOAPODS: 1.1.1
